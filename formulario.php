@@ -10,7 +10,7 @@
     <div>
         <form action="01valor.php" method="get">
             Valor: <input type="number" name="v"/>
-            <input type="submit" name="calcular raiz"/>
+            <input type="submit" value="calcular raiz"/>
         </form>
     </div>
 </body>
